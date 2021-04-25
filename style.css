@@ -1,0 +1,8 @@
+@media (min-width: 992px){
+    .modal-lg {
+        max-width: 90%
+    }
+}
+
+.card-body:hover {background-color:#f2f2f2;}
+.bg-light1{background-color:#f2f2f2;!important}
